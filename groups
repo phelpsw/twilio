@@ -1,0 +1,20 @@
+#
+# This file defines groups as collections of users.
+#
+#
+group tanks
+pwilliams1
+pwilliams2
+
+group ranged
+pwilliams
+pwilliams3
+
+group healers
+pwilliams
+pwilliams1
+pwilliams2
+
+group dps
+pwilliams4
+
