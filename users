@@ -1,0 +1,15 @@
+#
+# This file contains individual user information.  Users can be included in
+# groups or can be referred to directly by their nickname.
+#
+# Duplicate names are not allowed.  Duplicate numbers are fine.  Availability
+# is optional and if not listed no bounds are set.  Group availability
+# overrides individual user availability if set.
+#
+# Name		Number		Availability(optional)
+pwilliams	+15553755828	1000-1334
+pwilliams1	5553755828	0000-1543
+pwilliams2	5553755828	0100-2300
+pwilliams3	5553755828	0945-2359
+pwilliams4	5553755828	
+
